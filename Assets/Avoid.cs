@@ -1,11 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 using UnityEngine.AI;
-using UnityEngine.Experimental.GlobalIllumination;
-[RequireComponent(typeof(NavMeshAgent))]
+using UnityEngine;
+using System.Collections.Generic;
+
 [System.Serializable]
 public class Avoider : AvoiderBase
 {
-    
+
 }
